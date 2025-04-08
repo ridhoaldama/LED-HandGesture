@@ -23,7 +23,7 @@ Proyek ini memungkinkan pengguna mengontrol lima buah LED menggunakan gesture ta
 
 Gambar wiring akan ditambahkan di sini:
 
-![Wiring Diagram](wiring.jpg)
+![Wiring Diagram](wiring.png)
 
 
 ## 📁 Struktur Proyek
