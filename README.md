@@ -20,9 +20,6 @@ Proyek ini memungkinkan pengguna mengontrol lima buah LED menggunakan gesture ta
   - Breadboard & kabel jumper
 
 ## 📷 Wiring
-
-Gambar wiring akan ditambahkan di sini:
-
 ![Wiring Diagram](wiring.png)
 
 
