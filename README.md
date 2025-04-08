@@ -52,7 +52,7 @@ Arduino akan menunggu 5 byte dari serial untuk mengontrol 5 LED pada pin 8–12.
   ```
 - Jalankan:
   ```bash
-  python gesture_control.py
+  python main.py
   ```
 
 > Pastikan port serial di `main.py` sudah sesuai dengan port Arduino kamu, misalnya `'COM6'` di Windows atau `'/dev/ttyUSB0'` di Linux.
